@@ -1,0 +1,9 @@
+scikit-learn
+Flask
+Flask-Session
+matplotlib
+numpy
+sqlalchemy
+requests
+psycopg2
+pandas
